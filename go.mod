@@ -1,4 +1,4 @@
-module github.com/Azure/aad-pod-identity
+module github.com/tonedefdev/aad-pod-identity
 
 go 1.16
 
